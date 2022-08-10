@@ -1,2 +1,2 @@
 # shuffleshell
-A small shell written in Rust
+A small shell writen in rust under 100 lines 
